@@ -16,12 +16,12 @@
 
 ## - 👨‍🔧Tools that I am using -
 
-Intelliji   
-VS Code
+<img src="java.png" width="55" height="55">   
+<img src="vscode.png" width="55" height="55"> 
 
 ## Other tools that I use
 
-Photofiltre  - Making visuals and art   
-Canva  - Creating social network content
+<img src="pf_logo.png" width="55" height="55">   - Making visuals and art   
+<img src="canva.png" width="55" height="55">   - Creating social network content
 
 
