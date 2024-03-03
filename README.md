@@ -17,12 +17,12 @@
 
 <img src="pictures/rlogo.png" width="55" height="55"> 
 
-## - 👨‍🔧Tools that I am using -
+## - 🔧 Tools that I am using -
 
 <img src="pictures/intelliji_logo.png" width="55" height="55">   
 <img src="pictures/vscode_logo.png" width="55" height="55"> 
 
-## Other tools that I use
+## - 🎨 Other tools that I use -
 
 <img src="pictures/pf_logo.png" width="55" height="55">     **- Making visuals and art**   
 <img src="pictures/canva.png" width="55" height="55">     **- Creating social network content**
