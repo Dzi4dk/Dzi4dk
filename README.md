@@ -11,6 +11,7 @@
 <img src="pictures/java.png" width="55" height="55">   
 <img src="pictures/C_Logo.png" width="55" height="55">   
 <img src="pictures/python.png" width="55" height="55">   
+<img src="pictures/js.png" width="55" height="55">   
 
 ## - 🕵️‍♂️ Languages that I am currently learning -
 
