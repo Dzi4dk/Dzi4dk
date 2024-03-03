@@ -8,22 +8,22 @@
 
 ## - 👨‍🍳 Languages that I learned - 
 
-<img src="java.png" width="55" height="55">   
-<img src="C_Logo.png" width="55" height="55">   
-<img src="python.png" width="55" height="55">   
+<img src="ictures/java.png" width="55" height="55">   
+<img src="pictures/C_Logo.png" width="55" height="55">   
+<img src="pictures/python.png" width="55" height="55">   
 
 ## - 🕵️‍♂️ Languages that I am currently learning -
 
-<img src="r_logo.png" width="55" height="55"> 
+<img src="pictures/r_logo.png" width="55" height="55"> 
 
 ## - 👨‍🔧Tools that I am using -
 
-<img src="intelliji_logo.png" width="55" height="55">   
-<img src="vscode_logo.png" width="55" height="55"> 
+<img src="pictures/intelliji_logo.png" width="55" height="55">   
+<img src="pictures/vscode_logo.png" width="55" height="55"> 
 
 ## Other tools that I use
 
-<img src="pf_logo.png" width="55" height="55">     **- Making visuals and art**   
-<img src="canva.png" width="55" height="55">     **- Creating social network content**
+<img src="pictures/pf_logo.png" width="55" height="55">     **- Making visuals and art**   
+<img src="pictures/canva.png" width="55" height="55">     **- Creating social network content**
 
 
