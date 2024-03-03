@@ -1,4 +1,5 @@
-<img src="banner.png">  
+<img src="banner.png">   
+
 # - 🌍 Hello dear traveller 🌌 -
 
 🪤 > Hi, I'm dzi4dk, a 20 yo student who loves making projects, learning new things and being creative.
