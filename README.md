@@ -12,7 +12,6 @@
 
 ## - 🕵️‍♂️ Languages that I am currently learning -
 
-<img src="rlogo.png" width="55" height="55"> 
 
 ## - 👨‍🔧Tools that I am using -
 
