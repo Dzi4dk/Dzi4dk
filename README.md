@@ -2,7 +2,7 @@
 
 # - 🌍 Hello dear traveller 🌌 -
 
-**🪤 > Hi, I'm dzi4dk, a 20 yo student who loves making projects, learning new things and being creative.**
+**🪤 > Hi, I'm dzi4dk, a 20 yo student who loves learning new things and being creative.**
 
 **👨‍🎓 > I am doing engineering studies and I will become an engineer in data science or in software development.**
 
