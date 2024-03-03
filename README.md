@@ -8,13 +8,13 @@
 
 ## - 👨‍🍳 Languages that I learned - 
 
-<img src="ictures/java.png" width="55" height="55">   
+<img src="pictures/java.png" width="55" height="55">   
 <img src="pictures/C_Logo.png" width="55" height="55">   
 <img src="pictures/python.png" width="55" height="55">   
 
 ## - 🕵️‍♂️ Languages that I am currently learning -
 
-<img src="pictures/r_logo.png" width="55" height="55"> 
+<img src="pictures/rlogo.png" width="55" height="55"> 
 
 ## - 👨‍🔧Tools that I am using -
 
