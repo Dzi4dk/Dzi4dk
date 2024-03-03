@@ -6,14 +6,13 @@
 
 ## - 👨‍🍳 Languages that I learned - 
 
-Java   
-C   
-Python   
-Javascript   
+<img src="java.png" width="55" height="55">   
+<img src="C_Logo.png" width="55" height="55">   
+<img src="python.png" width="55" height="55">   
 
 ## - 🕵️‍♂️ Languages that I am currently learning -
 
-R
+<img src="rlogo.png" width="55" height="55"> 
 
 ## - 👨‍🔧Tools that I am using -
 
