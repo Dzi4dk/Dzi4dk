@@ -1,4 +1,4 @@
-<img src=pictures/"banner.png">   
+<img src="pictures/banner.png">   
 
 # - 🌍 Hello dear traveller 🌌 -
 
