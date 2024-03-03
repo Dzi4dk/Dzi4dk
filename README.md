@@ -17,7 +17,7 @@
 ## - 👨‍🔧Tools that I am using -
 
 <img src="java.png" width="55" height="55">   
-<img src="vscode.png" width="55" height="55"> 
+<img src="vscode_logo.png" width="55" height="55"> 
 
 ## Other tools that I use
 
