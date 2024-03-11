@@ -27,4 +27,14 @@
 <img src="pictures/pf_logo.png" width="55" height="55">     **- Making visuals and art**   
 <img src="pictures/canva.png" width="55" height="55">     **- Creating social network content**
 
+## - 🏗️ My projects -
+
+<img src="pictures/karmaka-nobc.png" width="600" height="351">    
+
+**- Making a Java porting for the Karmaka card game ✔️**   
+**- Making a graphical interface for the Karmaka card game 🚧👷‍♂️🚧 (WIP)**   
+
+
+
+
 
