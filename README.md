@@ -4,7 +4,7 @@
 
 **🪤 > Hi, I'm Dzi4dk, a 20 yo student who loves learning new things and being creative.**
 
-**👨‍🎓 > Currently doing engineering studies. Searching to work in data science or on artificial intelligence.**
+**👨‍🎓 > Currently doing engineering studies. Seeking to work in data science or on artificial intelligence.**
    
 
 ### - 👨‍🍳 Languages that I learned - 
