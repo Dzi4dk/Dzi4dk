@@ -1,4 +1,4 @@
-<img src="pictures/banner.png">   
+<img src="pictures/solsad_banner.png">   
 
 # - 🌍 Hello dear traveller 🌌 -
 
