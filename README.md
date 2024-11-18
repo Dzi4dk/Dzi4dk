@@ -13,16 +13,19 @@
 <img src="pictures/C_Logo.png" width="55" height="55">   
 <img src="pictures/python.png" width="55" height="55">   
 <img src="pictures/js.png" width="55" height="55">   
+<img src="pictures/rlogo.png" width="55" height="55">   
+<img src="pictures/html_logo.png" width="55" height="55">   
 
-### - 🕵️‍♂️ Languages that I am currently learning -
 
-<img src="pictures/rlogo.png" width="55" height="55"> 
+### - 🕵️‍♂️ Languages / librairies that I am currently learning -
+
+
 
 ### - 🔧 Tools that I am using -
 
 <img src="pictures/intelliji_logo.png" width="55" height="55">   
-<img src="pictures/vscode_logo.png" width="55" height="55"> 
-
+<img src="pictures/vscode_logo.png" width="55" height="55">   
+<img src="pictures/jupyter_logo.png" width="55" height="55"> 
 
 ### - 🎨 Other tools that I use -
 
