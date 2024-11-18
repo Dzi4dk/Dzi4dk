@@ -19,7 +19,7 @@
 
 ### - 🕵️‍♂️ Languages / librairies that I am currently learning -
 
-<img src="pictures/pyspark_logo.jpeg" width="139" height="55">   
+<img src="pictures/pyspark_logo.png" width="139" height="55">   
 <img src="pictures/pytorch_logo.png" width="211" height="55">   
 
 ### - 🔧 Tools that I am using -
