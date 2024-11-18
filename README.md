@@ -4,7 +4,7 @@
 
 **🪤 > Hi, I'm Dzi4dk, a 20 yo student who loves learning new things and being creative.**
 
-**👨‍🎓 > I am doing engineering studies and I will become an engineer in data science or in software development.**
+**👨‍🎓 > Currently doing engineering studies. Searching to work in data science or on artificial intelligence. **
    
 
 ### - 👨‍🍳 Languages that I learned - 
@@ -22,6 +22,7 @@
 
 <img src="pictures/intelliji_logo.png" width="55" height="55">   
 <img src="pictures/vscode_logo.png" width="55" height="55"> 
+
 
 ### - 🎨 Other tools that I use -
 
